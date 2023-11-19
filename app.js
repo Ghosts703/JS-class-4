@@ -31,3 +31,4 @@ var eq234 = 'abc' + '4' + new2++ + new3++ + --new3 - --new2 + 10 + undefined;
 document.write(eq234)
 
 //end
+//updated
